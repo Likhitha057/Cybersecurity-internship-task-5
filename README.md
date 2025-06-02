@@ -19,7 +19,6 @@ Step 6: Identify at Least 3 Different Protocols
         TLS 
         SSL 
 Step 7: Export the Capture as a .pcap File
-        I have made a document
 Step 8: Summarize Your Findings
         I captured traffic for 1 minute while visiting websites and using ping.
         Protocols Observed:
